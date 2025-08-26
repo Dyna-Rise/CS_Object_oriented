@@ -26,6 +26,22 @@ namespace Class_Practice2
             Person p3 = new Person();
             p3.InfoDisplay(); //p3にメソッドを使わせてみる
             p3.AttackInfo(99); //技名を調べてみる(引数なし）
+
+
+            /////////////////////////////////////////////////////////////
+            ///
+
+            //Personを継承したWarriorを試してみる
+            Warrior w1 = new Warrior(); //引数なしでインスタンス
+            w1.InfoDisplay(); //Personのメソッドを使ってみる
+            w1.AttackInfo(2); //オーバーライドしたメソッドを使ってみる
+            string ikigomi = w1.Special(); //Specialメソッドで得た値を変数に代入
+            Console.WriteLine(ikigomi);
+
+            Person w2 = new Warrior("イモスケ",800);
+            w2.InfoDisplay();
+            w2.AttackInfo(3);
+
         }
     }
 }
