@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Class_Practice2
 {
-    internal class Program
+    internal class Person
     {
-        static void Main(string[] args)
-        {
-            
-        }
+
     }
 }
