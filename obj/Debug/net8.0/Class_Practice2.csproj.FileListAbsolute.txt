@@ -1,0 +1,15 @@
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\bin\Debug\net8.0\Class_Practice2.exe
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\bin\Debug\net8.0\Class_Practice2.deps.json
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\bin\Debug\net8.0\Class_Practice2.runtimeconfig.json
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\bin\Debug\net8.0\Class_Practice2.dll
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\bin\Debug\net8.0\Class_Practice2.pdb
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\Class_Practice2.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\Class_Practice2.AssemblyInfoInputs.cache
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\Class_Practice2.AssemblyInfo.cs
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\Class_Practice2.csproj.CoreCompileInputs.cache
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\Class_Practice2.sourcelink.json
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\Class_Practice2.dll
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\refint\Class_Practice2.dll
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\Class_Practice2.pdb
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\Class_Practice2.genruntimeconfig.cache
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Class_Practice2\Class_Practice2\obj\Debug\net8.0\ref\Class_Practice2.dll
