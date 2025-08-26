@@ -66,22 +66,23 @@ namespace Class_Practice2
 
         //技をひとつ公表するメソッド
         //オーバーロードして引数あり、引数なし 2種類作っておく
-        public void AttackInfo(int x)
+        //継承先でオーバーライドされるメソッドの予定なのでvirtual宣言も加えておく
+        public virtual void AttackInfo(int x)
         {
             switch (x)
             {
                 case 1:
-                    Console.WriteLine("必殺の右ストレート");
+                    Console.WriteLine("技：必殺の右ストレート");
                     break;
                 default:
-                    Console.WriteLine("渾身のタックル");
+                    Console.WriteLine("技：渾身のタックル");
                     break;
             }
         }
 
-        public void AttackInfo()
+        public virtual void AttackInfo()
         {
-            Console.WriteLine("渾身のタックル");
+            Console.WriteLine("技：渾身のタックル");
         }
 
     }
